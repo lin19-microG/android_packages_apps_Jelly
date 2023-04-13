@@ -111,6 +111,7 @@ class SuggestionsAdapter(private val mContext: Context) : BaseAdapter(), Filtera
                     SuggestionProviderType.BING -> BingSuggestionProvider()
                     SuggestionProviderType.DUCK -> DuckSuggestionProvider()
                     SuggestionProviderType.GOOGLE -> GoogleSuggestionProvider()
+                    SuggestionProviderType.QWANT -> QwantSuggestionProvider()
                     SuggestionProviderType.YAHOO -> YahooSuggestionProvider()
                     else -> null
                 }

@@ -87,6 +87,6 @@ object PrefsUtils {
     }
 
     enum class SuggestionProviderType {
-        BAIDU, BING, DUCK, GOOGLE, YAHOO, NONE
+        BAIDU, BING, DUCK, GOOGLE, QWANT, YAHOO, NONE
     }
 }

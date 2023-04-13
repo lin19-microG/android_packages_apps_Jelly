@@ -19,6 +19,7 @@
         <item>Bing</item>
         <item>DuckDuckGo</item>
         <item>Google</item>
+        <item>QWANT</item>
         <item>Yahoo</item>
         <item>@string/suggestions_provider_none</item>
     </string-array>
@@ -28,6 +29,7 @@
         <item>BING</item>
         <item>DUCK</item>
         <item>GOOGLE</item>
+        <item>QWANT</item>
         <item>YAHOO</item>
         <item>NONE</item>
     </string-array>
